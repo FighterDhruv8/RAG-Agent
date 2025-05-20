@@ -2,6 +2,8 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) agent that can answer user queries by retrieving relevant information from a set of documents and generating responses using a Large Language Model (LLM). It supports both command-line and Streamlit web interfaces.
 
+Go to the app from [here](https://rag-assignment.streamlit.app/).
+
 ## Features
 
 - Loads and chunks documents from various formats: `.txt`, `.csv`, `.json`, `.pdf`
