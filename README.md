@@ -2,7 +2,10 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) agent that can answer user queries by retrieving relevant information from a set of documents and generating responses using a Large Language Model (LLM). It supports both command-line and Streamlit web interfaces.
 
-Go to the app from [here](https://rag-assignment.streamlit.app/).
+Go to the online app from [here](https://dhruv-rag-agent.streamlit.app/).
+
+This repository is for the Streamlit-hosted code only. For local hosting only version, go to [this repository](https://github.com/FighterDhruv8/RAG-Agent-Local).\
+(Local version uses Ollama running locally, while the Streamlit hosted version uses Gemini through its API).
 
 ## Features
 
